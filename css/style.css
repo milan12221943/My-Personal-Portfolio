@@ -11,7 +11,7 @@
 }
 
 *::selection{
-    background:#A760FF;
+    background:#3bf924;
     color:#333;
 }
 
@@ -29,7 +29,7 @@ html::-webkit-scrollbar-track{
 }
 
 html::-webkit-scrollbar-thumb{
-    background:#A760FF;
+    background:#3bf924;
 }
 
 body{
@@ -59,7 +59,7 @@ section{
 }
 
 .btn:hover{
-    background:#A760FF;
+    background:#3bf924;
 }
 
 .heading{
@@ -79,7 +79,7 @@ section{
 }
 
 .heading span{
-    color:#A760FF;
+    color:#3bf924;
 }
 
 header{
@@ -102,7 +102,7 @@ header .user img{
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 1rem;
-    border:.7rem solid #A760FF;
+    border:.7rem solid #3bf924;
 }
 
 header .user .name{
@@ -136,7 +136,7 @@ header .navbar ul li a{
 }
 
 header .navbar ul li a:hover{
-    background:#A760FF;
+    background:#3bf924;
 }
 
 #menu{
@@ -169,7 +169,7 @@ header .navbar ul li a:hover{
 }
 
 .home h1 span{
-    color:#A760FF;
+    color:#3bf924;
 }
 
 .home p{
@@ -194,7 +194,7 @@ header .navbar ul li a:hover{
 
 .about .row .info h3{
     font-size: 2rem;
-    color:#A760FF;
+    color:#3bf924;
     padding:1rem 0;
     font-weight: normal;
 }
@@ -221,7 +221,7 @@ header .navbar ul li a:hover{
 
 .about .row .counter .box span{
     font-size: 4rem;
-    color:#A760FF;
+    color:#3bf924;
 }
 
 .about .row .counter .box h3{
@@ -276,7 +276,7 @@ header .navbar ul li a:hover{
     text-align: center;
     font-size: 2rem;
     color:#fff;
-    background:#A760FF;
+    background:#3bf924;
 }
 
 .portfolio .box-container{
@@ -363,7 +363,7 @@ header .navbar ul li a:hover{
 
 .contact .row .content .info h3 i{
     padding-right: 1rem;
-    color:#A760FF;
+    color:#3bf924;
 }
 
 .top{
