@@ -11,7 +11,7 @@
 }
 
 *::selection{
-    background:#3bf924;
+    background:##A760FF;
     color:#333;
 }
 
@@ -29,7 +29,7 @@ html::-webkit-scrollbar-track{
 }
 
 html::-webkit-scrollbar-thumb{
-    background:#3bf924;
+    background:##A760FF;
 }
 
 body{
@@ -59,7 +59,7 @@ section{
 }
 
 .btn:hover{
-    background:#3bf924;
+    background:##A760FF;
 }
 
 .heading{
@@ -79,7 +79,7 @@ section{
 }
 
 .heading span{
-    color:#3bf924;
+    color:##A760FF;
 }
 
 header{
@@ -102,7 +102,7 @@ header .user img{
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 1rem;
-    border:.7rem solid #3bf924;
+    border:.7rem solid ##A760FF;
 }
 
 header .user .name{
@@ -136,7 +136,7 @@ header .navbar ul li a{
 }
 
 header .navbar ul li a:hover{
-    background:#3bf924;
+    background:##A760FF;
 }
 
 #menu{
@@ -169,7 +169,7 @@ header .navbar ul li a:hover{
 }
 
 .home h1 span{
-    color:#3bf924;
+    color:##A760FF;
 }
 
 .home p{
@@ -194,7 +194,7 @@ header .navbar ul li a:hover{
 
 .about .row .info h3{
     font-size: 2rem;
-    color:#3bf924;
+    color:##A760FF;
     padding:1rem 0;
     font-weight: normal;
 }
@@ -221,7 +221,7 @@ header .navbar ul li a:hover{
 
 .about .row .counter .box span{
     font-size: 4rem;
-    color:#3bf924;
+    color:##A760FF;
 }
 
 .about .row .counter .box h3{
@@ -276,7 +276,7 @@ header .navbar ul li a:hover{
     text-align: center;
     font-size: 2rem;
     color:#fff;
-    background:#3bf924;
+    background:##A760FF;
 }
 
 .portfolio .box-container{
@@ -363,7 +363,7 @@ header .navbar ul li a:hover{
 
 .contact .row .content .info h3 i{
     padding-right: 1rem;
-    color:#3bf924;
+    color:##A760FF;
 }
 
 .top{
